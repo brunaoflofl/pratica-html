@@ -1,0 +1,48 @@
+body {
+    font-family: 'Raleway', sans-serif; 
+
+}
+#borda{
+    border-style: groove;
+    border-color: #EEE5DE;
+    border-width: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#logo{
+    text-align: center;
+    }
+h1 a{
+    color: black
+    
+}
+
+a{
+    color: #8B8989;
+    text-decoration:none;
+    margin: 10px;
+    }
+ul{
+    list-style:none;
+
+}
+ul li { 
+    display: inline; 
+}
+#dBody{
+    width: 100%;
+    height: 500px;
+    background-image: url("../img/jane.jpg");
+    align-items: center;
+    background-position: center;
+}
+img{
+    width: 100%
+}
+#footer{
+    background-color: #EEE5DE;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
